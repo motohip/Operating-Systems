@@ -1,1 +1,2 @@
 One function of the opperating system is Automatic Updates. Fixes and device drivers will automatically update on your computer. You can also switch to manual updates.
+Another function of the opperating system is Back-up and Restore. You can back up your files and restore to the last saved point. You can also restore your computer to how it was when it was delivered from the factory. 
